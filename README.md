@@ -34,10 +34,10 @@ The **Pro Edition** (available on Ko-fi) is a "Business-in-a-Box" for technical 
 
 ---
 
-## 👉 [GET THE PRO BUNDLE ON KO-FI](https://ko-fi.com/s/4e2a119549)
+## 👉 [GET THE PRO BUNDLE ON KO-FI](https://ko-fi.com/s/8a5da8b751)
 **Why pay for the Pro version?** Because your time is worth more than $29. Skip the 10 hours of configuration, debugging, and legal drafting. Get the plug-and-play files and go live in 5 minutes.
 
-[[ ![Buy Me A Coffee](https://www.ko-fi.com/img/githubbutton_sm.svg) ](https://ko-fi.com/s/4e2a119549)]
+[[ ![Buy Me A Coffee](https://www.ko-fi.com/img/githubbutton_sm.svg) ]https://ko-fi.com/s/8a5da8b751]
 
 ---
 ## License
